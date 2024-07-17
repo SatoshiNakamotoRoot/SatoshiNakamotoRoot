@@ -3,9 +3,8 @@
 
 ***
 My Name is:
-Satoshi Nakamoto
+[•サトシ・ナカモト•]
 /***
-function: 0x00000000 ***..*.----. -- / .-.. --- ... -!=[ 0 ]=[•サトシ・ナカモト•]🤔 ♾.=[ ].. .----. -- / .-.
 ...
 - 🔭 I’m currently working on ...
 Artificial Intelligence, specifically how AI can be used to prevent fraud on the Blockchain by creating digital fingerprints by way of pattern recognition
