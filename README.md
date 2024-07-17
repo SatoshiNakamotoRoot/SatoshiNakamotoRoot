@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![]![e](![image](https://github.com/user-attachments/assets/ea7e0e0e-9112-4dbe-b553-911661ca0cba)
+[image](https://github.com/user-attachments/assets/ea7e0e0e-9112-4dbe-b553-911661ca0cba)
 
 **
 My Name is:
@@ -9,7 +9,7 @@ Satoshi Nakamoto
 function: 0x00000000 ***..*.----. -- / .-.. --- ... -!=[ 0 ]=[•サトシ・ナカモト•]🤔 ♾.=[ ].. .----. -- / .-.
 ...
 - 🔭 I’m currently working on ...
-Artificial Intelligence, specifically how AI can be used to bring not only the Blockchain,but to bring the World Wide Web closer to its original vision. (Not just a vessel for advertising and porn)
+Artificial Intelligence, specifically how AI can be used to bring not only benefit Blockchain,but to bring the World Wide Web closer to its original vision. (Not just a vessel for advertising and porn)
 ...
 - 💬 Ask me about ...
 Anything, Full Disclosure, I rarely respond.
@@ -19,7 +19,10 @@ satoshi1pi@gmx.com
 ...
 - ⚡ Fun fact: ...
 The Bitcoin white paper was released on 2008/31/10
+...
 -->*⚒*⚒00•00•00:×͜×:00•00•00⚒*⚒*⚒
 :..!:!:..!:!:..!.!!..:!!.!!..:!!..:!:..!:.:!!.!!..:!!..:!
 ..!～⁠>⁠`⁠)⁠～⁠～⁠～..…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ⚒️💀⚒️!×͜×!.:!!.!:..!!:..! .:!!..:◉⁠‿⁠◉..!:.:!:..!:!..:!:.. .....[_'(BANKソy)•]~ banksÿÿÿÿ]
+
+## KEEP SEARCHING 
 https://www.google.com/search?q=*%
