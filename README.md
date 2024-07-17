@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![]![Image description here](https://raw.githubusercontent.com/SatoshiNakamotoRoot/SatoshiNakamotoRoot/master/Satoshi-Img_Intro.gif  
+![]![e](![image](https://github.com/user-attachments/assets/ea7e0e0e-9112-4dbe-b553-911661ca0cba)
+
 **
 My Name is:
 Satoshi Nakamoto
