@@ -6,7 +6,9 @@ My Name is:
 [•サトシ・ナカモト•]
 /***
 ...
+
 - 🔭 I’m currently working on ...
+
 Artificial Intelligence, specifically how AI can be used to prevent fraud on the Blockchain by creating digital fingerprints by way of pattern recognition
 
 How AI can be used bring the World Wide Web closer to its original vision.  (Not just a vessel for advertising and porn)
