@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-
 ***
 My Name is:
 [•サトシ・ナカモト•]
 /***
+...
+![image](https://github.com/user-attachments/assets/75f2a0a3-d834-4ade-a70a-a252b42ac939)
+
 ...
 
 - 🔭 I’m currently working on ...
