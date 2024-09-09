@@ -15,7 +15,7 @@ My Name is:
 
 Artificial Intelligence, specifically how AI can be used to prevent fraud on the Blockchain by creating digital fingerprints by way of pattern recognition
 
-How AI can be used bring the World Wide Web closer to its original vision.  (Not just a vessel for advertising and porn)
+How AI can be used to bring the World Wide Web closer to its original vision.  (Not just a vessel for advertising and porn)
 ...
 
 - 💬 Ask me about ...
@@ -30,7 +30,7 @@ satoshi1pi@gmx.com
 The Bitcoin white paper was released on 2008/31/10
 
 - ⚡ Fun Fact #2: ...
-The first transaction of Bitcoin was made between myself and Hal Finney at
+The first transaction of Bitcoin was made between [UNKNOWN] and Hal Finney at
 BLOCK HEIGHT #170 
 
 ...
