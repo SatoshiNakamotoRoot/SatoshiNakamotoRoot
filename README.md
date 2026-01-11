@@ -1,12 +1,6 @@
-## Hi there 👋
+## 
 
-***
-My Name is:
-[•サトシ・ナカモト•]
-...
-/***
 
-...
 ![image](https://github.com/user-attachments/assets/75f2a0a3-d834-4ade-a70a-a252b42ac939)
 
 ...
@@ -34,10 +28,7 @@ The first transaction of Bitcoin was made between [UNKNOWN] and Hal Finney at
 BLOCK HEIGHT #170 
 
 ...
-  ##-->*⚒*⚒00•00•00:×͜×:00•00•00⚒*⚒*⚒
-:..!:!:..!:!:..!.!!..:!!.!!..:!!..:!:..!:.:!!.!!..:!!..:!
-..!～⁠>⁠`⁠)⁠～⁠～⁠～..…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ⚒️💀⚒️!×͜×!.:!!.!:..!!:..! .:!!..:◉⁠‿⁠◉..!:.:!:..!:!..:!:.. .....[_'(BANKソy)•]~ banksÿÿÿÿ]
-
+  
 
 ## INFORMATION WANTS TO BE FREE
 uid: Satoshi Nakamoto 
@@ -50,3 +41,4 @@ uid: Satoshi Nakamoto
 
 ## KEEP SEARCHING 
 https://www.google.com/search?q=*%
+
