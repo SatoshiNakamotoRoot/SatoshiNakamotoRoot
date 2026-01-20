@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ...
 
-Artificial Intelligence, specifically how AI can be used to prevent fraud on the Blockchain by creating digital fingerprints by way of pattern recognition
+Artificial Intelligence, specifically digital fingerprinting using pattern recognition
 
 How AI can be used to bring the World Wide Web closer to its original vision.  (Not just a vessel for advertising and porn)
 ...
