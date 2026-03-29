@@ -1,8 +1,7 @@
 ## 
 
 
-![image]
-(https://ipfs.io/ipfs/bafkreiexf2tp4ymc7djglypcrzatyrunmj5vrrg3v23ef2fx5g6o4xiw7u)))
+![image](https://ipfs.io/ipfs/bafkreiexf2tp4ymc7djglypcrzatyrunmj5vrrg3v23ef2fx5g6o4xiw7u)))
 
 ...
 
